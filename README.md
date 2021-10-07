@@ -1,1 +1,3 @@
 # app-local-cache
+
+本地文件缓存，缓存文件位于/runtime/cache/...

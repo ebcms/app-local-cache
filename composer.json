@@ -1,0 +1,10 @@
+{
+    "name": "ebcms/local-cache",
+    "description": "本地缓存",
+    "type": "ebcms-app",
+    "license": "Apache-2.0",
+    "require": {
+        "ebcms/framework": "^2.0",
+        "ebcms/psr16-local": "^1.0"
+    }
+}
